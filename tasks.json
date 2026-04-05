@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "Groceris",
+        "status": "todo",
+        "createdAt": "2026-04-05T18:21:25.159995",
+        "updatedAt": "2026-04-05T18:21:25.160015"
+    },
+    {
+        "id": 2,
+        "description": "buy milk",
+        "status": "todo",
+        "createdAt": "2026-04-05T18:21:41.218687",
+        "updatedAt": "2026-04-05T18:21:41.218711"
+    }
+]
